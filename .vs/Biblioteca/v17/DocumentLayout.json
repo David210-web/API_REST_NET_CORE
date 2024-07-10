@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programacion\\Biblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA12EAAA-A3DD-4845-B285-AF022E0EB79E}|API_REST\\API_REST.csproj|d:\\programacion\\biblioteca\\api_rest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AA12EAAA-A3DD-4845-B285-AF022E0EB79E}|API_REST\\API_REST.csproj|solutionrelative:api_rest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA12EAAA-A3DD-4845-B285-AF022E0EB79E}|API_REST\\API_REST.csproj|d:\\programacion\\biblioteca\\api_rest\\services\\libroservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA12EAAA-A3DD-4845-B285-AF022E0EB79E}|API_REST\\API_REST.csproj|solutionrelative:api_rest\\services\\libroservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA12EAAA-A3DD-4845-B285-AF022E0EB79E}|API_REST\\API_REST.csproj|d:\\programacion\\biblioteca\\api_rest\\services\\usuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA12EAAA-A3DD-4845-B285-AF022E0EB79E}|API_REST\\API_REST.csproj|solutionrelative:api_rest\\services\\usuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA12EAAA-A3DD-4845-B285-AF022E0EB79E}|API_REST\\API_REST.csproj|d:\\programacion\\biblioteca\\api_rest\\services\\prestamosservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA12EAAA-A3DD-4845-B285-AF022E0EB79E}|API_REST\\API_REST.csproj|solutionrelative:api_rest\\services\\prestamosservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA12EAAA-A3DD-4845-B285-AF022E0EB79E}|API_REST\\API_REST.csproj|d:\\programacion\\biblioteca\\api_rest\\services\\categoriaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA12EAAA-A3DD-4845-B285-AF022E0EB79E}|API_REST\\API_REST.csproj|solutionrelative:api_rest\\services\\categoriaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA12EAAA-A3DD-4845-B285-AF022E0EB79E}|API_REST\\API_REST.csproj|d:\\programacion\\biblioteca\\api_rest\\services\\autoresservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA12EAAA-A3DD-4845-B285-AF022E0EB79E}|API_REST\\API_REST.csproj|solutionrelative:api_rest\\services\\autoresservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Programacion\\Biblioteca\\API_REST\\appsettings.json",
+              "RelativeDocumentMoniker": "API_REST\\appsettings.json",
+              "ToolTip": "D:\\Programacion\\Biblioteca\\API_REST\\appsettings.json",
+              "RelativeToolTip": "API_REST\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-10T01:51:28.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioServices.cs",
+              "DocumentMoniker": "D:\\Programacion\\Biblioteca\\API_REST\\Services\\UsuarioServices.cs",
+              "RelativeDocumentMoniker": "API_REST\\Services\\UsuarioServices.cs",
+              "ToolTip": "D:\\Programacion\\Biblioteca\\API_REST\\Services\\UsuarioServices.cs",
+              "RelativeToolTip": "API_REST\\Services\\UsuarioServices.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T00:29:26.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrestamosServices.cs",
+              "DocumentMoniker": "D:\\Programacion\\Biblioteca\\API_REST\\Services\\PrestamosServices.cs",
+              "RelativeDocumentMoniker": "API_REST\\Services\\PrestamosServices.cs",
+              "ToolTip": "D:\\Programacion\\Biblioteca\\API_REST\\Services\\PrestamosServices.cs",
+              "RelativeToolTip": "API_REST\\Services\\PrestamosServices.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T00:29:17.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibroServices.cs",
+              "DocumentMoniker": "D:\\Programacion\\Biblioteca\\API_REST\\Services\\LibroServices.cs",
+              "RelativeDocumentMoniker": "API_REST\\Services\\LibroServices.cs",
+              "ToolTip": "D:\\Programacion\\Biblioteca\\API_REST\\Services\\LibroServices.cs",
+              "RelativeToolTip": "API_REST\\Services\\LibroServices.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAIwGUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T00:28:58.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriaServices.cs",
+              "DocumentMoniker": "D:\\Programacion\\Biblioteca\\API_REST\\Services\\CategoriaServices.cs",
+              "RelativeDocumentMoniker": "API_REST\\Services\\CategoriaServices.cs",
+              "ToolTip": "D:\\Programacion\\Biblioteca\\API_REST\\Services\\CategoriaServices.cs",
+              "RelativeToolTip": "API_REST\\Services\\CategoriaServices.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T00:28:47.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AutoresServices.cs",
+              "DocumentMoniker": "D:\\Programacion\\Biblioteca\\API_REST\\Services\\AutoresServices.cs",
+              "RelativeDocumentMoniker": "API_REST\\Services\\AutoresServices.cs",
+              "ToolTip": "D:\\Programacion\\Biblioteca\\API_REST\\Services\\AutoresServices.cs",
+              "RelativeToolTip": "API_REST\\Services\\AutoresServices.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T00:28:37.389Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
